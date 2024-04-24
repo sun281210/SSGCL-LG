@@ -13,6 +13,7 @@ Fisrt, go into ./code, and then you can use the following commend to run our mod
 > python main.py IMDB --cpu:0
 
 Here, "IMDB" can be replaced by "ACM", "DBLP".
+Database：https://pan.quark.cn/s/72a373618719
 
 ## Cite
 ```
