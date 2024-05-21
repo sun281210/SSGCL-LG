@@ -1,11 +1,11 @@
 # Semi-Supervised Heterogeneous Graph Contrastive Learning with Label-Guided
 
-##Authors: Chao Li1, Guoyi Sun1, Xin Li1 and Juan Shan2*
+Authors: Chao Li1, Guoyi Sun1, Xin Li1 and Juan Shan2*
 
 ## Keywords: 
 Heterogeneous Graph Neural Networks, Semi-Supervised Learning, Contrastive Learning, Label Information
 
-## ntroduction:
+## Introduction:
 Heterogeneous Graph Neural Networks represent a powerful approach 
 to understand and utilize the intricate structures and semantics within
 complex graphs. When it comes to semi-supervised learning on graphs,
